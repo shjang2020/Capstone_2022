@@ -49,7 +49,7 @@
 - 딥러닝 기반 추천
   - Self-Attention 기반 G-ADLFRM
   - Multi-Head Attention 기반 G-ADLFRM
-  - Multi-Conv1D 기반 G-ADLFRM
+  - Multi-Conv1D 기반 G-ADLFRM - best model
 
 ### 3. 시스템 구현
 - 개인화된 랭킹

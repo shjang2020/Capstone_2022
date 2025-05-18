@@ -9,14 +9,14 @@
 ## 🎯 프로젝트 목록
 
 ### 1. 2021_Data Analysis with Corporate
-- 기업 데이터 분석 프로젝트
-- 데이터 시각화 및 인사이트 도출
-- 기업 성과 예측 모델 개발
+- Greyd 앱 사용자 수 증대를 위한 데이터 분석 및 예측 모델링 프로젝트
+- 시장 분석, 사용자 분석, 콘텐츠 분석을 통해 30-50대 여성 타겟층을 겨냥한 전략 제안
+- Python, Pandas, NLTK, Scikit-learn, BeautifulSoup, Selenium 사용
 
 ### 2. 2022_Recommendation System
-- 추천 시스템 개발 프로젝트
-- 협업 필터링 및 콘텐츠 기반 필터링 구현
-- 개인화된 추천 알고리즘 개발
+- 개인화된 추천 시스템 개발 프로젝트
+- G-ADLFRM 모델을 기반으로 협업 필터링, 콘텐츠 기반 필터링, 하이브리드 추천 구현
+- Python, Pandas, NumPy, Scikit-learn, TensorFlow 사용
 
 ## 🛠️ 사용 기술
 - Python
